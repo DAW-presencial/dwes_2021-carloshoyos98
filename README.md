@@ -8,3 +8,5 @@
 
 5- Las propiedades privadas son heredadas por la clase hija, las 'protected', no.
 Al llamar las funciones 'mágicas' desde la clase hija sin haberlas definido en esta, no llama a las de la clase padre.
+
+6- Enlace: http://choyos.ifc33x.cifpfbmoll.eu/examen_1a_Evaluacion/dwes_2021-carloshoyos98/
